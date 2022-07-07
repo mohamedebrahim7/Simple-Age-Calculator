@@ -1,16 +1,7 @@
-# age_calc
+#Age_Calculator
 
-A new Flutter application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://user-images.githubusercontent.com/77003100/177800971-f9759021-b210-4b48-b54d-2be5a31cf82e.jpg)
+![2](https://user-images.githubusercontent.com/77003100/177800983-8c3460ef-c2ee-42ce-a6f4-a4b23259b198.jpg)
+![3](https://user-images.githubusercontent.com/77003100/177800989-c9c82c1c-5244-456d-80bd-508ca8c71cd6.jpg)
